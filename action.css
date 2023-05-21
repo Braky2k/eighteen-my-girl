@@ -1,0 +1,62 @@
+body {
+    background-image: linear-gradient(to left, #a5e7eb, #9797f8);
+}
+
+.card {
+    display: flex;
+
+    justify-content: center;
+  }
+  
+  .card img {
+    margin-top: 50px;
+    float: left;
+    margin-right: 20px;
+  }
+  
+  .card .content {
+    flex: 1;
+  }
+
+  .image {
+    position: relative;
+  }
+
+  .corner-image {
+    position: absolute;
+  }
+
+  .top-right {
+    bottom: 25cm;
+    right: 2cm;
+  }
+
+  .bottom-left {
+    bottom: 6cm;
+    left: 5cm;
+  }
+
+  .bottom-right {
+    top: 100cm;
+    left: 5px;
+  }
+
+  .more-bottom {
+    top: 143cm;
+    left: 20cm;
+  }
+
+  .container {
+    text-align: center;
+    margin-top: 3cm;
+  }
+
+  .left-image {
+    float: left;
+    margin-right: 10px;
+  }
+
+  .right-image {
+    float: right;
+    margin-left: 10px;
+  }

@@ -1,0 +1,8 @@
+body {
+    background-image: linear-gradient(to left, #a5e7eb, #9797f8);
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
